@@ -22,7 +22,7 @@
 ## Contact with me
 <p align="center">
   <a href="https://www.instagram.com/paula.sanchez_16">
-    <img src="https://cdn-icons-png.flaticon.com/128/6422/6422200.png" />
+    <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" />
   </a>
   <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
     <img src="https://cdn-icons-png.flaticon.com/128/6422/6422202.png" />
