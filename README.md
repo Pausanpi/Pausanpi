@@ -1,4 +1,4 @@
-# Hello! I'm Paula 🦖
+# Hello! I'm Paula 🦖 
 
 <p align="center">
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
@@ -33,13 +33,13 @@
 </p>
 <p>
   <a href="mailto:pausanpi1606@gmail.com"> 
-    - GMAIL: pausanpi1606@gmail.com <br/>
+    ✉️ GMAIL: pausanpi1606@gmail.com <br/>
   </a>
   <a href="https://www.instagram.com/paula.sanchez_16">
-    - INSTAGRAM: paula.sanchez_16 <br/>
+    📸 INSTAGRAM: paula.sanchez_16 <br/>
   </a>
    <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
-    - LINKEDIN: Paula Sánchez Piña
+    💼 LINKEDIN: Paula Sánchez Piña
    </a>
 </p>
 
