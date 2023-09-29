@@ -1,5 +1,5 @@
 # Hello! I'm Paula 🦖
-
+![Banner](https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif)
 ## About me ✨
  * Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
  * In addition, I am a student of Telematics Engineering at the University of Malaga.
@@ -20,4 +20,4 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/pausanch?1337Badge=off&UM6P=off" alt="pausanch's 42 stats" /></a>
 </p>
 
-![Gato](https://img.shields.io/badge/cat-lover-orange)
+
