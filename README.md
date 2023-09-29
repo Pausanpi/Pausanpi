@@ -31,5 +31,10 @@
     <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/c505e73f-fc41-445f-8d1d-480a22e6c3a0" width="64" height="64" />
   </a>
 </p>
+<p>
+  - GMAIL: pausanpi1606@gmail.com
+  - INSTAGRAM: paula.sanchez_16
+  - LINKEDIN: Paula Sánchez Piña
+</p>
 
 
