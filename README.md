@@ -14,3 +14,7 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
   </a>
 </p>
+
+## My profile
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/pausanch?1337Badge=off&UM6P=off" alt="pausanch's 42 stats"></a>
