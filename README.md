@@ -22,7 +22,7 @@
 ## Contact with me
 <p align="center">
   <a href="mailto:pausanpi1606@gmail.com">
-    <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/30d8344f-d15f-4cab-b7e5-861ee0389455" width="64" height="64" />
+    <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/9f92e89f-bf27-40b5-9019-8ab14116e1be" width="64" height="64" />
   </a>
   <a href="https://www.instagram.com/paula.sanchez_16">
     <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/d9708a58-ee0f-479c-af8e-63c9085aac12" width="64" height="64" />
