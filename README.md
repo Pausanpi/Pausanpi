@@ -6,10 +6,6 @@
 <p>In my GitHub profile, you will find projects related to my studies and personal projects.</p>
 
 <h3>42 Progress 👩🏻‍💻</h3>
-<ul>
-  <lib><b>42 Projects 💻</b></lib>
-  <ul>
-    <li><a href="https://github.com/Pausanpi/Libft">LIBFT</a></li>
-    <li><a href="https://github.com/Pausanpi/Printf">PRINTF</a></li>
-  </ul>
-</ul>
+<p align="center">
+  <a href="https://github.com/Pausanpi/Libft">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
