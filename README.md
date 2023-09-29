@@ -32,8 +32,8 @@
   </a>
 </p>
 <p>
-  - GMAIL: pausanpi1606@gmail.com
-  - INSTAGRAM: paula.sanchez_16
+  - GMAIL: pausanpi1606@gmail.com <br/>
+  - INSTAGRAM: paula.sanchez_16 <br/>
   - LINKEDIN: Paula Sánchez Piña
 </p>
 
