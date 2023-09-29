@@ -1,6 +1,7 @@
 # Hello! I'm Paula 🦖
+<div align="center>
   ![Banner](https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif)
-  
+</div>
 ## About me ✨
  * Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
  * In addition, I am a student of Telematics Engineering at the University of Malaga.
