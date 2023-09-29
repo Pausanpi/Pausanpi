@@ -31,15 +31,15 @@
     <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/c505e73f-fc41-445f-8d1d-480a22e6c3a0" width="64" height="64" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="mailto:pausanpi1606@gmail.com"> 
-    ✉️ GMAIL: pausanpi1606@gmail.com <br/>
+    ✉️
   </a>
   <a href="https://www.instagram.com/paula.sanchez_16">
-    📸 INSTAGRAM: paula.sanchez_16 <br/>
+    📸
   </a>
    <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
-    💼 LINKEDIN: Paula Sánchez Piña
+    💼
    </a>
 </p>
 
