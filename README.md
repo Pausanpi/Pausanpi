@@ -16,6 +16,6 @@
 </p>
 
 ## My profile
-<p añign="center">
+<p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/pausanch?1337Badge=off&UM6P=off" alt="pausanch's 42 stats" /></a>
 </p>
