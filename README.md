@@ -1,5 +1,6 @@
 # Hello! I'm Paula 🦖
 
+![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello!%20I'm Paula%20🌈&width=800&height=400)
 <p align="center">
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
 </p>
