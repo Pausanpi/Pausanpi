@@ -3,7 +3,7 @@
 <head>
   <style>
     p {
-      color: #FFC0AF;
+      color: blue;
       }
   </style>
 </head>
