@@ -10,6 +10,6 @@
   <lib><b>42 Projects 💻</b></lib>
   <ul>
     <li><a href="https://github.com/Pausanpi/Libft">LIBFT</a></li>
-    <p>This project consists of programming a library in C.</p>
+    <li><a href="https://github.com/Pausanpi/Printf">PRINTF</a></li>
   </ul>
 </ul>
