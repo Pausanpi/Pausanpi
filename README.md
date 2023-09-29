@@ -32,7 +32,7 @@
   </a>
 </p>
 <p>
-  - GMAIL: pausanpi1606@gmail.com <br/>
+  <a href="mailto:pausanpi1606@gmail.com"> - GMAIL: pausanpi1606@gmail.com <br/>
   - INSTAGRAM: paula.sanchez_16 <br/>
   - LINKEDIN: Paula Sánchez Piña
 </p>
