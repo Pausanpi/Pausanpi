@@ -1,7 +1,7 @@
 # Hello! I'm Paula 🦖
   ![Banner](https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif)
 
-<p align="center>
+<p align="center">
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
 </p>
   
