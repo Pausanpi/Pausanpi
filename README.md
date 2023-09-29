@@ -19,9 +19,14 @@
   </a>
 </p>
 
-## My profile
+## Contact with me
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/pausanch?1337Badge=off&UM6P=off" alt="pausanch's 42 stats" /></a>
+  <a href="https://www.instagram.com/paula.sanchez_16">
+    <img src="" />
+  </a>
+  <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" />
+  </a>
 </p>
 
 
