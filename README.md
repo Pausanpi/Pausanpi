@@ -25,7 +25,7 @@
     <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" width="64" height="64" />
   </a>
   <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="100" height="100" />
+    <img src="https://iconos8.es/icon/CqSHNNO0qG0w/linkedin---in-logo-used-for-professional-networking%2C" width="64" height="64" />
   </a>
 </p>
 
