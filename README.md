@@ -1,5 +1,5 @@
 # 🦖
 
 <head>
-  <p>Pausanch</p>
+  <h1>Pausanch</h1>
 </head>
