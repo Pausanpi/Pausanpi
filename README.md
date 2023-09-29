@@ -25,7 +25,7 @@
     <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" width="64" height="64" />
   </a>
   <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="64" height="64" />
+    <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/c505e73f-fc41-445f-8d1d-480a22e6c3a0" width="64" height="64" />
   </a>
 </p>
 
