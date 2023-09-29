@@ -1,5 +1,13 @@
 # 🦖
-
+<html>
 <head>
-  <p style="color: #FFC0AF;">Pausanch</p>
+  <style>
+    p {
+      color: #FFC0AF;
+      }
+  </style>
 </head>
+<body>
+  <p>Pausanch</p>
+</body>
+</html>
