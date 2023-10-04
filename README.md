@@ -18,7 +18,7 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
   </a>
   <a href="https://github.com/Pausanpi/Born2beroot">
-    <img src="badges/born2beroot_bonus.webp" width="100" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
   </a>
 </p>
 
