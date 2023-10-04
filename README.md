@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## Contact with me
+<!-- ## Contact with me
 <p align="center">
   <a href="mailto:pausanpi1606@gmail.com">
     <img src="https://github.com/Pausanpi/Pausanpi/assets/123211878/9f92e89f-bf27-40b5-9019-8ab14116e1be" width="64" height="64" />
@@ -44,6 +44,4 @@
    <a href="https://www.linkedin.com/in/paula-sánchez-piña-a81898236/">
     💼
    </a>
-</p>
-
-
+</p> -->
