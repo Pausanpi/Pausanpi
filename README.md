@@ -12,13 +12,13 @@
 ## 42 Projects 👩🏻‍💻
 <p align="center">
   <a href="https://github.com/Pausanpi/Libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
   </a>
   <a href="https://github.com/Pausanpi/Prinft">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
   </a>
   <a href="https://github.com/Pausanpi/Born2beroot">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" />
   </a>
   <a href="https://github.com/Pausanpi/Get_next_line">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp" />
