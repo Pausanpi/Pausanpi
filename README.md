@@ -20,6 +20,9 @@
   <a href="https://github.com/Pausanpi/Born2beroot">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
   </a>
+  <a href="https://github.com/Pausanpi/Get_next_line">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp" />
+  </a>
 </p>
 
 <!-- ## Contact with me
