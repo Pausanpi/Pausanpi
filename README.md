@@ -21,7 +21,7 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" />
   </a>
   <a href="https://github.com/Pausanpi/Get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" />
   </a>
 </p>
 
