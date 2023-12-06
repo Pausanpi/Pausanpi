@@ -23,6 +23,9 @@
   <a href="https://github.com/Pausanpi/Get_next_line">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" />
   </a>
+  <a href="https://github.com/Pausanpi/so_long">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus_max.webp" />
+  </a>
 </p>
 
 <!-- ## Contact with me
