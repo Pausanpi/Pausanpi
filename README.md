@@ -13,11 +13,11 @@
 ###
 
 <p align="center">
- * Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
+ - Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
 <br></br>
- * In addition, I am a student of Telematics Engineering at the University of Malaga.
+ - In addition, I am a student of Telematics Engineering at the University of Malaga.
 <br></br>
- * In my GitHub profile, you will find projects related to my studies and personal projects.
+ - In my GitHub profile, you will find projects related to my studies and personal projects.
 </p>
 
 ###
