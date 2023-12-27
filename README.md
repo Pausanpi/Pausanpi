@@ -39,9 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pausanpi/pausanpi/output/snake.svg" alt="Snake animation" />
-
-
 <!-- ## Contact with me
 <p align="center">
   <a href="mailto:pausanpi1606@gmail.com">
