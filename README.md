@@ -1,4 +1,5 @@
-# Hello! I'm Paula 🦖 
+<h1 align="center">Hello! I'm Paula 🦖</h3>
+### 
 
 <p align="center">
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
