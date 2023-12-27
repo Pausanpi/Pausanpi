@@ -1,5 +1,6 @@
 <h1 align="center">Hello! I'm Paula 🦖</h3>
-### 
+
+###
 
 <p align="center">
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
@@ -10,9 +11,14 @@
 <h3 align="center">About me ✨</h3>
 
 ###
+
+<p align="center">
  * Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
+<br></br>
  * In addition, I am a student of Telematics Engineering at the University of Malaga.
+<br></br>
  * In my GitHub profile, you will find projects related to my studies and personal projects.
+</p>
 
 ###
 
