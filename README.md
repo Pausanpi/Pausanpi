@@ -9,7 +9,8 @@
  * In addition, I am a student of Telematics Engineering at the University of Malaga.
  * In my GitHub profile, you will find projects related to my studies and personal projects.
 
-## 42 Projects 👩🏻‍💻
+<h3 align="center">42 Projects 👩🏻‍💻:</h3>
+
 <p align="center">
   <a href="https://github.com/Pausanpi/Libft">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
@@ -28,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">My Stats :</h3>
 
 ###
 
