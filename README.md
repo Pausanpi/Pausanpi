@@ -42,6 +42,9 @@
   <a href="https://github.com/Pausanpi/so_long">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus_max.webp" />
   </a>
+  <a href="https://github.com/Pausanpi/push_swap">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp" />
+  </a>
    <a href="https://github.com/Pausanpi/MiniTalk">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk.webp" />
   </a>
