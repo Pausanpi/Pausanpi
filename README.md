@@ -30,7 +30,7 @@
   <a href="https://github.com/Pausanpi/Libft">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
   </a>
-  <a href="https://github.com/Pausanpi/Prinft">
+  <a href="https://github.com/Pausanpi/Printf">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
   </a>
   <a href="https://github.com/Pausanpi/Born2beroot">
