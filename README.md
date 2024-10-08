@@ -1,4 +1,5 @@
-<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:9B59B6,80:E91E63&height=140&section=header"></a>
+<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:A1C6EA,80:F28C8C&height=140&section=header"></a>
+
 
 <h1 align="center">Hello! I'm Paula 🦖</h3>
 
