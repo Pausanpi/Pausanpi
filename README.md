@@ -60,7 +60,8 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 
-<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:E91E63,10:9B59B6:&&height=140&section=footer"></a>
+<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:E6E6FA,10:6A0DAD&height=140&section=footer"></a>
+
 ###
 
 <!-- ## Contact with me
