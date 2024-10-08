@@ -28,26 +28,19 @@
 
 
   <a href="https://github.com/Pausanpi/Libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" /></a>
   <a href="https://github.com/Pausanpi/Printf">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" /></a>
   <a href="https://github.com/Pausanpi/Born2beroot">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" /></a>
   <a href="https://github.com/Pausanpi/Get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>
   <a href="https://github.com/Pausanpi/so_long">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus_max.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus_max.webp" /></a>
   <a href="https://github.com/Pausanpi/Push-swap">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp" /></a>
    <a href="https://github.com/Pausanpi/MiniTalk">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk.webp" />
-  </a>
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk.webp" /></a>
 
 
 ###
