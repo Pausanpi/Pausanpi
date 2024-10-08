@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">
+
   <a href="https://github.com/Pausanpi/Libft">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
   </a>
@@ -48,7 +48,7 @@
    <a href="https://github.com/Pausanpi/MiniTalk">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk.webp" />
   </a>
-</p>
+
 
 ###
 
