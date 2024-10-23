@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <img align="center" src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
+  <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
 </p>
 
 ###
