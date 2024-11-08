@@ -6,9 +6,10 @@
   <img src="aaaa.gif" width="700"/>
 </p>-->
 
-<h1 align="center">Hello! I'm Paula</h1>
+<h1 align="center">🎄 Hello! I'm Paula 🎄</h1>
 
 ###
+
 <div align="center">
   <h3>About me</h3>
 
@@ -23,7 +24,7 @@
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
 </p>-->
 
-
+###
 <h3 align="center">42 Projects 👩🏻‍💻</h3>
 
 ###
