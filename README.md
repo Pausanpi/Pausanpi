@@ -1,14 +1,24 @@
 <!--<p align="center">
-  <img src="aaaa.gif" width="700"/>
+  <img src="img.png"/>
 </p>-->
 
-<p>
-  <img src="img.png"/>
+
+<p align="center">
+  <img src="aaaa.gif" width="700"/>
 </p>
 
+<h1 align="center">Hello! I'm Paula</h1>
+
 ###
+<div align="center">
+  <h3>About me</h3>
 
+  Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
 
+  In addition, I am a student of Telematics Engineering at the University of Málaga.
+
+  In my GitHub profile, you will find projects related to my studies and personal projects.
+</div>
 
 <!--<p align="center">
   <img src="https://media.tenor.com/GSYaS6m-vjsAAAAM/bruh-again.gif" />
