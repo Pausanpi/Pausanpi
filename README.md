@@ -1,6 +1,11 @@
-<p align="center">
+<!--<p align="center">
   <img src="aaaa.gif" width="700"/>
+</p>-->
+
+<p>
+  <img src="Hello! I'm Paula"/>
 </p>
+
 <h1 align="center">Hello! I'm Paula 🦖</h3>
 
 ###
