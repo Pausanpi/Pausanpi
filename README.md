@@ -3,7 +3,7 @@
 </p>-->
 
 <p>
-  <img src="Hello! I'm Paula"/>
+  <img src="img.png"/>
 </p>
 
 <h1 align="center">Hello! I'm Paula 🦖</h3>
