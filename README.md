@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <h3>About me ☃✨</h3>
+  <h3>About me ✨</h3>
 
   Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
 
