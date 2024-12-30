@@ -25,7 +25,7 @@
 </p>-->
 
 ###
-<h3 align="center">42 Projects 👩🏻‍💻</h3>
+<h3 align="center">42 Projects <img src="https://github.com/K1rsN7/K1rsN7/blob/main/Image/cat-coder.gif" width="30px"></h3>
 
 ###
 
