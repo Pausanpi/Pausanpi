@@ -6,7 +6,7 @@
   <img src="aaaa.gif" width="700"/>
 </p>-->
 
-<h1 align="center">🎄 Hello! I'm Paula 🎄</h1>
+<h1 align="center">🌺 Hello! I'm Paula 🌺</h1>
 
 ###
 
@@ -46,6 +46,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk.webp" /></a>
   <a href="https://github.com/Pausanpi/Philosophers">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp" /></a>
+  <a href="https://github.com/abello-r/minishell">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" /></a>
 </p>
 
 ###
