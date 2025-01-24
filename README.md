@@ -6,8 +6,6 @@
   <img src="aaaa.gif" width="700"/>
 </p>-->
 
-<h1 align="center">🌺 Hello! I'm Paula 🌺</h1>
-
 ###
 
 <div align="center">
