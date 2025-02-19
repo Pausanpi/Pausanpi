@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <h3>About me ✨</h3>
+  <h3>About me <img src="https://media.tenor.com/6ceOmdT7SHkAAAAi/emoji-emojis.gif" width="20px"></h3>
 
   Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
 
@@ -42,6 +42,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp" /></a>
   <a href="https://github.com/abello-r/minishell">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" /></a>
+  <a href="https://github.com/Pausanpi/Cub3D">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" /></a>
 </p>
 
 ###
