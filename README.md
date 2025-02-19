@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">My Stats :</h3>
+<h3 align="center">My Stats <img src="https://media1.tenor.com/m/V71SmWqyYHkAAAAC/kermit-freaking.gif" width="50px"></h3>
 
 ###
 
