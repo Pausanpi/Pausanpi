@@ -23,31 +23,6 @@
 
 ###
 
-<p align="center">
-  <a href="https://github.com/Pausanpi/Libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" /></a>
-  <a href="https://github.com/Pausanpi/Printf">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" /></a>
-  <a href="https://github.com/Pausanpi/Born2beroot">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" /></a>
-  <a href="https://github.com/Pausanpi/Get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>
-  <a href="https://github.com/Pausanpi/so_long">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus_max.webp" /></a>
-  <a href="https://github.com/Pausanpi/Push-swap">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp" /></a>
-  <a href="https://github.com/Pausanpi/MiniTalk">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk.webp" /></a>
-  <a href="https://github.com/Pausanpi/Philosophers">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp" /></a>
-  <a href="https://github.com/abello-r/minishell">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" /></a>
-  <a href="https://github.com/Pausanpi/Cub3D">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" /></a>
-</p>
-
-###
-
 <h3 align="center">My Stats <img src="https://media1.tenor.com/m/V71SmWqyYHkAAAAC/kermit-freaking.gif" width="50px"></h3>
 
 ###
