@@ -25,3 +25,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,git,github,docker,html,css,js,python,godot,mysql,aws" alt="Skills Icons" />
   </a>
 </div>
+
+<div align="center">
+<img src="https://api.cheriby.com/api/v1/action-gif/act-msswuotv-c4a67a41f51b/v2.webp" width="100px" heigh="100px"/>
+</div>
