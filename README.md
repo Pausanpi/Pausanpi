@@ -7,11 +7,11 @@
 <div align="center">
   <h3>About me <img src="https://media.tenor.com/6ceOmdT7SHkAAAAi/emoji-emojis.gif" width="20px"></h3>
 
-  Currently, I am in 42 Malaga, where I am actively participating in programming challenges and improving my skills in the programming world.
+  I have completed the programming curriculum at 42 Málaga, where I developed my problem-solving skills and gained hands-on experience through a project-based learning approach.
 
-  In addition, I am a student of computer network systems administration.
+I am currently studying Computer Systems Administration, with a particular interest in networking, Linux systems and cybersecurity.
 
-  In my GitHub profile, you will find projects related to my studies and personal projects.
+On my GitHub profile, you can find projects related to my studies and personal interests.
 </div>
 
 <!--<p align="center">
